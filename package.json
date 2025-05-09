@@ -1,6 +1,6 @@
 {
   "name": "capacitor-purchase-plugin",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Capacitor In-App Purchases plugin",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
